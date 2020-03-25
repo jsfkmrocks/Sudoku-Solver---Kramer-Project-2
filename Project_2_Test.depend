@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584384183 source:/home/csis/Desktop/Project_2_Test_Desktop/Project_2_Test/Alg1.cc
+
+1585087274 source:/home/csis/Desktop/Project_2_Test_Desktop/Project_2_Test/main.cpp
+	<iostream>
+	"stack.h"
+
+1584384598 /home/csis/Desktop/Project_2_Test_Desktop/Project_2_Test/stack.h
+	<stdexcept>
+
+1584384598 source:/home/csis/Desktop/Project_2_Test_Desktop/Project_2_Test/stack.h
+	<stdexcept>
+
